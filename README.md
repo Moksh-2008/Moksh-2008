@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there, I'm Moksh Patel! 👋
 
-<!--
-**Moksh-2008/Moksh-2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 First Year B.Tech student at VIT Bhopal University  
+- 📍 Bhopal, Madhya Pradesh, India  
+- 💻 Exploring the world of technology and programming  
 
-Here are some ideas to get you started:
+## What I Hope to Learn
+I hope to build strong foundations in software development, data structures, and problem solving over the next four years and use these skills to create meaningful real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- 🔗 LinkedIn: MOKSH PATEL  
+- 📊 Kaggle: mokshpatel16  
+
+## My Projects
+- 🌐 Digital Literacy Project
